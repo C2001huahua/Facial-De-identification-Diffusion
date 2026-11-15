@@ -1,6 +1,9 @@
-# Facial-De-identification-Diffusion
-This repository contains the implementation of the manuscript submitted to the Journal of Electronic Imaging.
+# README
 
-Environment: Python and PyTorch.
+This repository contains the implementation of the manuscript submitted to the *Journal of Electronic Imaging*.
 
-Datasets: CelebA-HQ and LADN (public datasets).
+The implementation code is currently being organized for public release.
+
+**Environment:** Python and PyTorch.
+
+**Datasets:** CelebA-HQ and LADN (public datasets).
